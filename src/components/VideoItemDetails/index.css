@@ -1,0 +1,49 @@
+.video-player {
+  width: 80%;
+  text-align: center;
+}
+.video-details-description-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  margin: auto;
+  margin-left: 20px;
+  margin-bottom: 0;
+}
+.like-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style-type: none;
+  width: 30%;
+  padding-right: 10px;
+}
+.like-list-item {
+  display: flex;
+  flex-direction: row;
+}
+.separator {
+  color: #7e858e;
+  width: 95%;
+  background-color: #7e858e;
+}
+.description-container {
+  display: flex;
+  flex-direction: row;
+  margin-left: 20px;
+}
+.sub-description-container {
+  margin-left: 10px;
+}
+.video-player-container {
+  margin: auto;
+  text-align: center;
+  width: 90%;
+  height: 380px;
+  margin-bottom: 0px;
+}
+.btn {
+  display: flex;
+  align-items: center;
+}
